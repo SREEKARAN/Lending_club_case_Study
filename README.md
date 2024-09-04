@@ -11,38 +11,31 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- Financial institution has a problem in idnetifying potential defaulters while considering loan requests.
+- We need use the historical data available for analysis and finding possible hints for defaults.
+- We will be using EDA to achive this and recommend Financial institution steps to reduce number of defaults.
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Below are few points can be considered  while approving a loan request.
+- Loan Purpose: -Loans for debt consolidation are high risky , need thorough analysis of capacity of applicant before approving
+- Loan Term: Loans with 60-month terms default  more than those with 36-month terms. Assess the borrower's ability to repay over the loan term.
+- Interest Rate and Employment Length : interest rate with 13-17% and employment length with 10+ are more  likely to default
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Python
+- EDA - technics 
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@SREEKARAN] - feel free to contact me!
 
 
 <!-- Optional -->
