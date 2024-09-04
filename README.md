@@ -1,5 +1,5 @@
 # Project Name
-> Outline a brief description of your project.
+> Lending CLub Case Study - a study for identifying potential reason for loan defaults
 
 
 ## Table of Contents
